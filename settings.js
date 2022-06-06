@@ -13,8 +13,8 @@
 
   // Edit Sesuai Kemauanmu
   global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
-  global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
-  global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
+  global.autoReadAll = ture // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
+  global.anticall = false // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
@@ -51,19 +51,19 @@
 
   // Edit Sesuai Kemauan Mu
   global.rpg = {
-  limitEnd: 'Limit Anda Habis\n\n📝 Note : Limit Akan Di Reset Setiap Jam 21:00',
+  limitEnd: 'Limit Anda Habis\n\n📝 Note : Limit Akan Di Reset Setiap Jam 23:00',
   }
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
+  admin: '_Afa Lu Admin? 🧐_',
   botAdmin: '_Bot Bukan Admin 😔_',
   owner: '_Lu Bukan Owner Gw 😠_',
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
   wait: '_Sabar Sedang Di Proses ..._',
-  done: '_✅Done Omm_',
+  done: '_✅Done, jangan lupa donasi_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
