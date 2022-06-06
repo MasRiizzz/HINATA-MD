@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/e39700906c2c93d583f20.jpg" alt="Hinata-Hyuga" width="100"/>
+<img src="https://telegra.ph/file/e39700906c2c93d583f20.jpg" alt="MasBotz-Md width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MasBotz-Md" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -63,8 +63,8 @@ npm start
 global.ownername = 'Rizki Muhammad Adam'
 global.owner = ['6285876810596','6285876810596','6285876810596']
 global.ownernomer = '6285876810596'
-global.botname = 'Hinata Hyuga'
-global.packname = 'Hinata Hyuga'
+global.botname = 'MasBotz-Md'
+global.packname = 'MasBotz-Md'
 global.author = 'Rizki Muhammad Adam' // Sticker Weem
 global.webme = 'https://api-riy.herokuapp.com'
 global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26oi'
