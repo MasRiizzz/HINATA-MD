@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6285876810596)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -50,7 +50,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riychdwayne/Hinata-Hyuga.git
+git clone https://github.com/MasRiizzz/Hinata-Hyuga.git
 cd Hinata-Hyuga
 pkg install yarn
 yarn
@@ -60,18 +60,18 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.ownername = 'Riy'
-global.owner = ['6281575886399','6281575886399','6285813334446']
-global.ownernomer = '6281575886399'
+global.ownername = 'Rizki Muhammad Adam'
+global.owner = ['6285876810596','6285876810596','6285876810596']
+global.ownernomer = '6285876810596'
 global.botname = 'Hinata Hyuga'
 global.packname = 'Hinata Hyuga'
-global.author = 'Riy' // Sticker Weem
+global.author = 'Rizki Muhammad Adam' // Sticker Weem
 global.webme = 'https://api-riy.herokuapp.com'
-global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T'
+global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26oi'
 global.sessionName = 'session'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.github = 'https://github.com/riychdwayne'
-global.instagram = 'https://instagram.com/riychdwayne'
+global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4p'
+global.github = 'https://github.com/MasRiizzz'
+global.instagram = 'https://instagram.com/rizzkymaa'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -81,17 +81,17 @@ global.instagram = 'https://instagram.com/riychdwayne'
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/U1suj4wuWvc"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
+  <a href="https://youtu.be/U1suj4wuWv8"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6285876810596?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6285876810596?text=Bang+mau+donasi)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwV)
+- [Group 2](-)
+- [Group 3](-)
 
 # Thanks to
 - Dika Ardnt
@@ -103,3 +103,4 @@ global.instagram = 'https://instagram.com/riychdwayne'
 - Deff
 - Yoga
 - Riy
+- Rizki Muhammad Adam
